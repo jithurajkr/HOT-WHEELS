@@ -1,0 +1,40 @@
+/* product.css */
+
+body {
+  background-color:#ff6600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 200px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.product-image {
+  width: 100%;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-details h2 {
+  color: white;
+}
+
+.price {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-order {
+  background-color: #ff3c00;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border-radius: 8px;
+}
+
+.btn-order:hover {
+  background-color: #e63200;
+}

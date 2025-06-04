@@ -1,0 +1,43 @@
+body {
+  background-color: #0d0d0d;
+  font-family: 'Inter', sans-serif;
+}
+
+
+.logo-img {
+  height: 32px; 
+  width: auto;
+  filter: drop-shadow(0 0 2px #ff6600);
+  transition: transform 0.3s ease;
+}
+
+.logo-img:hover {
+  transform: scale(1.1);
+}
+
+.hero {
+  background: linear-gradient(to right, #ff3c00, #ff6600);
+  height: 90vh;
+  padding-top: 80px;
+  clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+}
+
+.section-title {
+  font-family: 'Orbitron', sans-serif;
+  color: #ffcc00;
+}
+
+.car-card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.car-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(255, 140, 0, 0.3);
+}
+
+.about-section {
+  background: linear-gradient(to right, #1a1a1a, #0d0d0d);
+}
