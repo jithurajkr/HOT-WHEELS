@@ -1,6 +1,6 @@
 # HOT-WHEELS
 # 🔥 Hot Wheels Product Page Project
-# This project is a simple and modern product page for a Hot Wheels e-commerce website. It showcases individual toy cars with large visuals and easy-to-use purchasing features. The layout is clean, user-friendly, and designed for desktop and mobile users using HTML, CSS, and Bootstrap.
+This project is a simple and modern product page for a Hot Wheels e-commerce website. It showcases individual toy cars with large visuals and easy-to-use purchasing features. The layout is clean, user-friendly, and designed for desktop and mobile users using HTML, CSS, and Bootstrap.
 
 # 🛠 Technologies Used:
 # HTML5 – for page structure
